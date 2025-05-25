@@ -7,8 +7,7 @@ This project demonstrates time series forecasting of quarterly GDP data using AR
 ## 📂 Dataset
 
 * Dataset: `GDP.xlsx` (Quarterly GDP values)
-* Time period: \[start year] to \[end year] (replace with actual)
-* Source: (Add if known, or mention it is a sample dataset)
+* Time period: 1959 Q1 to 2001 Q1
 
 ## 🔑 Key Steps
 
